@@ -10,8 +10,8 @@ Implementation of Logger Client have below 3 methods --->
     String poll();
     
 Output  --->
-{3} process started at {7} and ended {15}
-{2} process started at {8} and ended {12}
-{1} process started at {12} and ended {15}
+1. {3} process started at {7} and ended {15}
+2. {2} process started at {8} and ended {12}
+3. {1} process started at {12} and ended {15}
     
     
